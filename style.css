@@ -9,7 +9,7 @@
     background-repeat: no-repeat;
     height: 29.4vw;
     width: 29.4vw;
-    background: url("./images/clock.jpg");
+    background: url("images/clock.jpg");
     background-size: 100%;
 }
 #hour,#min,#sec{
