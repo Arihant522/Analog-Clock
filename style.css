@@ -10,7 +10,8 @@
     height: 29.4vw;
     width: 29.4vw;
     background: url("../images/clock.jpg");
-    background-size: 100%;
+    background-size: 99%;
+    background-repeat: no-repeat;
 }
 #hour,#min,#sec{
     position: absolute;
